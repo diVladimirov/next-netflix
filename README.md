@@ -1,5 +1,9 @@
 # Fullstack Netflix Clone with NextJS, TailwindCSS
 
+# Deployed on Vercel
+
+https://next-netflix-rose.vercel.app/auth
+
 Technologies:
 
 - NextJS - React Framework
